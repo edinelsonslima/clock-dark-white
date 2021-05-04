@@ -127,7 +127,7 @@ footer{
   box-shadow: 3px 3px rgb(105, 105, 104);
   text-shadow: 3px 3px rgb(105, 105, 104);
   background: rgb(51, 50, 50);
-  padding: 0.1rem;
+  padding-top: 14%;
   border-radius: 0.15em 0.15em 0 0;
   backface-visiblity: hidden;
   transform-style: preserve-3d;
